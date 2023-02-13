@@ -1,8 +1,8 @@
-package main;
+package aplicacion;
 
 import mates.Matematicas;
 
-public class Main
+public class Principal
 {
 	public static void main(String[] args)
 	{
