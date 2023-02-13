@@ -1,5 +1,1 @@
-ljfjslkjflsakj
-B
-B
-A
-
+Main-Class: aplicacion.Principal
