@@ -6,6 +6,6 @@ public class Principal
 {
 	public static void main(String[] args)
 	{
-		System.out.println("El número PI aproximadamente es: " + Matematicas.generarNumeroPi(Integer.parseInt(args[0])));
+		System.out.println("El número PI aproximadamente es: " + Matematicas.monteCarlo(Integer.parseInt(args[0])));
 	}
 }
