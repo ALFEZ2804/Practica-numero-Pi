@@ -28,6 +28,8 @@ make mates
 
 La estructura de clases se puede ver en la foto que se puede encontrar en el repositorio bajo el nombre de class diagram.png
 
+## Licencia
+
 Copyright [2023] [Alberto Fernández Rodríguez]
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
