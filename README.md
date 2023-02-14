@@ -1,8 +1,8 @@
-#Breve resumen del programa
+# Breve resumen del programa
 
 Este programa sirve para hallar el valor de Pi mediante el metodo Montecarlo, cuyo funcionamiento se puede comprobar mediante el siguiente video: https://www.youtube.com/watch?v=ELetCV_wX_c
 
-##Instalar
+## Instalar
 
 El código puede ser descargado mediante GitHub. Uso del make Suprime los directorios bin y html, elimina los ficheros .jar, los .class y .txt.
 
@@ -23,6 +23,10 @@ make jar
 Limpiar, compilar, crear los .jar, los html y ejecutar la interfaz.
 
 make mates
+
+## Estructura de clases
+
+La estructura de clases se puede ver en la foto que se puede encontrar en el repositorio bajo el nombre de class diagram.png
 
 Copyright [2023] [Alberto Fernández Rodríguez]
 Licensed under the Apache License, Version 2.0 (the "License");
